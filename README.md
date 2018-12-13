@@ -6,8 +6,14 @@ Based on the most epic theme for Visual Studio Code made by @equinusocio, [Mater
 
 ## Install
 
-Clone or Download this repository. Navigate to directory and open `Material Palenight.alfredappearance`. Alfred will take it from there.
+1. Clone or Download this repository. 
+2. Navigate to directory and open `Material Palenight.alfredappearance`. 
+3. Alfred will take it from there!
 
 ## What's Alfred?
 
-You're joking, right? It's only one of the best productivity apps ever made for macOS. Do yourself a favor and [check it out!](https://www.alfredapp.com/)
+**You're joking, right?** 
+
+It's only one of the best productivity apps ever made for macOS. 
+
+Do yourself a favor and [**check it out!**](https://www.alfredapp.com/)

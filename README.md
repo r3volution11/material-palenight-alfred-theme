@@ -1,8 +1,8 @@
-![Material Palenight Theme for Alfred Screenshot](http://r3v.in/0yebuR/Screen-Shot-2018-12-12-19-16-18.67.png)
+![Material Palenight Theme for Alfred Screenshot](screenshot.png)
 
 # Material Palenight Theme for Alfred (macOS)
 
-Based on the most epic theme for Visual Studio Code made by @equinusocio, [Material Theme](https://github.com/equinusocio/vsc-material-theme).
+Based on the most epic theme for Visual Studio Code made by @equinusocio, [Material Theme](https://github.com/material-theme/vsc-material-theme).
 
 ## Install
 

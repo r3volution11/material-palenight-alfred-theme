@@ -1,3 +1,5 @@
+# Notice: I've now created a new repo with all of the material theme variants and 2 styles to choose from. Check it out at https://github.com/r3volution11/material-theme-alfred.
+
 ![Material Palenight Theme for Alfred Screenshot](screenshot.png)
 
 # Material Palenight Theme for Alfred (macOS)
